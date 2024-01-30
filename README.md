@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [logo]: https://www.codewars.com/users/Graznov/badges/large
+
+Задание ссылки на изображения сразу: 
+![alt text](https://www.codewars.com/users/Graznov/badges/large)
